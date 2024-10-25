@@ -1,2 +1,5 @@
 npx nuxi module add eslint
 npm install -D typescript
+---
+npm i -D vuetify vite-plugin-vuetify
+npm i @mdi/font
