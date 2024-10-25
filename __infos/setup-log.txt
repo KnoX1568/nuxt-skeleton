@@ -3,3 +3,7 @@ npm install -D typescript
 ---
 npm i -D vuetify vite-plugin-vuetify
 npm i @mdi/font
+---
+npm install vue-i18n
+npm i --save-dev
+npm i @intlify/unplugin-vue-i18n
