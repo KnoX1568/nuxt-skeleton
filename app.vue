@@ -1,6 +1,15 @@
 <template>
-  <div>
-    <NuxtRouteAnnouncer />
-    <NuxtWelcome />
-  </div>
+  <NuxtLayout>
+    <NuxtLoadingIndicator />
+    <NuxtPage />
+  </NuxtLayout>
 </template>
+
+<script setup lang="ts">
+</script>
+
+<style>
+body {
+  margin: 0;
+}
+</style>

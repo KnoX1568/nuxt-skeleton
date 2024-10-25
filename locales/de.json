@@ -1,3 +1,18 @@
 {
-  "appName": "Skeleton"
+  "appName": "Skeleton",
+  "layout": {
+    "default": {
+      "menu": {
+        "title": "Menü",
+        "language": {
+          "select": {
+            "label": "Sprache",
+            "locale": {
+              "de": "deutsch"
+            }
+          }
+        }
+      }
+    }
+  },
 }
